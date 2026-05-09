@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body{
+    font-family: "Playfair Display", serif;
+}
+@media (min-width: 1024px){
+    html{
+        font-size: 16px;
+    }
+}
+@media (min-width: 768px)and(max-width: 1023px){html{
+        font-size: 15px;
+    }
+}
+@media (max-width: 767px){
+    html{
+        font-size: 14px;
+    }
+}
